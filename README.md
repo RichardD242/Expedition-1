@@ -1,3 +1,7 @@
+
+![Logo](Expedition1Logo.png)
+
+
 # Expedition 1
 
 **Expedition 1** is a personal rocket launch project built just for fun, experimentation, and learning. The goal is simple: design, build, and (safely!) launch a rocket — while exploring all the exciting engineering challenges that come with it.
