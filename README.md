@@ -30,6 +30,8 @@ This project is open source!
 ---
 #### I will probably create a youtube video to this project, this repo is just for the overview and project files. 
 
+#### https://youtu.be/P3VfKH4apUM?si=L_38dCuHL4vg1K7r ; inspired by this youtuber
+
 
 
 
